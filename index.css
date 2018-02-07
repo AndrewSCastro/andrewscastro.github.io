@@ -1,0 +1,39 @@
+body {
+     background-color: #A0A0A0;
+}
+
+h1 {
+	font-family: 'Aldrich';
+	text-align: center;
+	font-size: 35px;
+	color:#303030;
+}
+
+img {
+	display: block;
+	margin: auto;
+	max-width: 341.5px;
+	max-height: 341.5px; 
+	height:100%;
+	width: 100%;
+    border-radius: 50%;
+}
+
+#Bio {
+	font-family: 'Aldrich';
+    text-align: center;
+	color:#696969;
+	font-size:28px;
+}
+
+#Resume {
+    font-family: 'Aldrich';
+    text-align: center;
+    color:#696969;
+    font-size:28px;
+}
+
+#Bio, #Resume {
+display:inline-center;
+text-align: center;
+}
