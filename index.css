@@ -19,6 +19,7 @@ img {
     border-radius: 50%;
 }
 
+/* Idea Taken from Stack Overflow to style links */
 a:visited { text-decoration: none; color:#696969; }
 a:hover { text-decoration: none; color:#373737; }
 a:focus { text-decoration: none; color:#373737; }
