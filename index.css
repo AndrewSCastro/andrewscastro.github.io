@@ -19,11 +19,6 @@ img {
     border-radius: 50%;
 }
 
-/* Idea Taken from Stack Overflow to style links */
-a:visited { text-decoration: none; color:#696969; }
-a:hover { text-decoration: none; color:#373737; }
-a:focus { text-decoration: none; color:#373737; }
-a:hover, a:active { text-decoration: none; color:#373737 }
 
 #Bio {
 	font-family: 'Aldrich';
@@ -38,3 +33,49 @@ a:hover, a:active { text-decoration: none; color:#373737 }
     color:#696969;
     font-size:28px;
 }
+
+#container{
+	text-align: center;
+}
+
+#
+/* Idea Taken from Stack Overflow to style links */
+a:visited{
+    text-decoration: none; color:#696969;
+}
+a:hover{
+    text-decoration: none; color:#373737;
+}
+
+a:focus{
+    text-decoration: none; color:#373737
+}
+
+a:hover, a:active {
+	text-decoration: none; color:#373737
+}
+
+a:link, a:visited {
+	background-color:#303030;
+    color:white;
+    padding:14px 25px;
+    text-align: center;
+    text-decoration:none;
+    display: inline-block;
+    border-radius:4px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+a:hover, a:active {
+	background-color:#202020;
+}
+
+/*
+a:link, a:visited: {
+  visited { text-decoration: none; color:#696969; }
+  hover { text-decoration: none; color:#373737; }
+  focus { text-decoration: none; color:#373737; }
+  hover, a:active { text-decoration: none; color:#373737 }
+}
+*/
+
