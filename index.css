@@ -69,12 +69,3 @@ a:hover, a:active {
 	background-color:#202020;
 }
 
-/*
-a:link, a:visited: {
-  visited { text-decoration: none; color:#696969; }
-  hover { text-decoration: none; color:#373737; }
-  focus { text-decoration: none; color:#373737; }
-  hover, a:active { text-decoration: none; color:#373737 }
-}
-*/
-
