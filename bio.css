@@ -1,0 +1,29 @@
+img {
+	position:absolute;
+	left:0;
+	top:0;
+	width:100%;
+	height:auto;
+	z-index: -1;
+    opacity:.5;
+}
+
+h1{
+	font-family: 'Oswald';
+	text-align: center;
+	font-size: 48px;
+	color:black;
+}
+p{
+	font-family: 'Oswald';
+	text-align: center;
+	font-size:30px;
+	color:##696969;
+}
+
+/*body {
+background-image: url("LittleIndia.jpg");
+background-color: #cccccc;	
+background-size:cover;
+}*/
+
